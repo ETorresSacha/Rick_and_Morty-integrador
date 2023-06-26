@@ -1,0 +1,14 @@
+.App {
+   margin: 0px;
+   padding: 0;
+   text-align: center;
+}
+.search{
+   background-color:#347474; 
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   margin-bottom: 1em;
+   border-radius: 0 0 10px 10px;
+}

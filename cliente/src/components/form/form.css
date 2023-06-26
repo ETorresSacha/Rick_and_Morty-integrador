@@ -1,0 +1,40 @@
+.form-contenedor{
+    margin:auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    width: 250px;
+    height: 470px;
+    background-color: aqua;
+    
+    display: flex;
+    
+    -webkit-box-shadow: 9px 9px 4px 5px #000000; 
+    box-shadow: 9px 9px 4px 5px #000000;
+    line-height: 1.5em;
+    font-weight: bold;
+    
+}
+.imagen-form{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.boton-enviar{
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #424741, 0 0 30px #424741, 0 0 40px #424741, 0 0 55px #424741, 0 0 75px #424741;
+    cursor: pointer;
+}
+.boton-enviar{
+    width: 70px;
+    height: 30px;
+    color: beige;
+    border-radius: 15px;
+    margin-top: 30px;
+    background: #0b0a0a;
+    box-shadow: 0 0 10px #0b0a0a, 0 0 40px #0b0a0a, 0 0 80px #0b0a0a;
+    font-size: 12px;
+}
+.input-form{
+    width: 200px;
+    font-weight: normal;
+
+}

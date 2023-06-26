@@ -1,0 +1,26 @@
+.contenedor-deatil{
+    display: flex;
+    background-image: url('../../imagenes/delite.png'); 
+    padding: 2px;
+    display: inline-flex;
+   border-radius: 18px;
+   overflow: hidden;
+   margin: 50px 10px 50px;
+   text-align: center;
+   width:1000px;
+   height: 500px;
+   transition: 0.3s;
+   box-shadow: 5px 5px 15px 5px #000000;
+ 
+}
+.contenedor-deatil:hover{
+    transform: scale(1.05)
+}
+.texto-detail{
+    
+    color: aqua;
+    text-align: center;
+    justify-content: center;
+    padding-top: 7%;
+    padding-left: 4%;
+}
